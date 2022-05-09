@@ -1,0 +1,15 @@
+{
+  "name": "source-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-loader": "^8.2.5",
+    "html-webpack-plugin": "^4.4.0",
+    "serve": "^13.0.2",
+    "webpack": "4.40.2",
+    "webpack-cli": "3.3.9"
+  }
+}
